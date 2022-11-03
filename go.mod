@@ -1,4 +1,4 @@
-module github.com/takumi2786/wsl-path-translater
+module github.com/takumi2786/wslpt
 go 1.19
 
 require (
