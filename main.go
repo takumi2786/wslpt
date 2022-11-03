@@ -44,7 +44,7 @@ func initialize() string {
 	return text
 }
 
-const DEBUG bool = true
+const DEBUG bool = false
 const INPUT_PATH = "./input.txt"
 
 func main() {

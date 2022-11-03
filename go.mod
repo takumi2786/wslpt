@@ -1,5 +1,4 @@
-module takumi2786/path-transfer
-
+module takumi2786/wsl-path-translater
 go 1.19
 
 require (
